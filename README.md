@@ -31,16 +31,22 @@ This project was developed as **Task 3** for the **CodSoft Machine Learning Inte
 
 
 Install the required libraries:
+
 pip install -r requirements.txt
 
 Run the Streamlit app:
+
 streamlit run app.py
 
 Project Structure
 app.py: Streamlit application code.
+
 churn_model.pkl: Pre-trained Random Forest model.
+
 model_columns.pkl: List of required columns for accurate user input translation.
+
 requirements.txt: Python dependencies.
+
 Churn_Modelling.csv: Original raw dataset.
 
 by Amit Kumar
