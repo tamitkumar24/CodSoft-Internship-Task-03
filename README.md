@@ -30,21 +30,17 @@ This project was developed as **Task 3** for the **CodSoft Machine Learning Inte
    cd "TASK -03 - CUSTOMER CHURN PREDICTION"
 
 
-   Install the required libraries:
-
-Bash
+Install the required libraries:
 pip install -r requirements.txt
+
 Run the Streamlit app:
-
-Bash
 streamlit run app.py
-📁 Project Structure
+
+Project Structure
 app.py: Streamlit application code.
-
 churn_model.pkl: Pre-trained Random Forest model.
-
 model_columns.pkl: List of required columns for accurate user input translation.
-
 requirements.txt: Python dependencies.
-
 Churn_Modelling.csv: Original raw dataset.
+
+by Amit Kumar
