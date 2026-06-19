@@ -29,16 +29,15 @@ This project was developed as **Task 3** for the **CodSoft Machine Learning Inte
    git clone [https://github.com/tamitkumar24/CodSoft-Internship-.git](https://github.com/tamitkumar24/CodSoft-Internship-.git)
    cd "TASK -03 - CUSTOMER CHURN PREDICTION"
 
+   Install the required libraries:
 
-Install the required libraries:
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+   Run the Streamlit app:
 
-Run the Streamlit app:
+   streamlit run app.py
 
-streamlit run app.py
-
-Project Structure
+## Project Structure
 app.py: Streamlit application code.
 
 churn_model.pkl: Pre-trained Random Forest model.
